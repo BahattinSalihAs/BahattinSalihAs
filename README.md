@@ -1,11 +1,11 @@
 # Merhaba, Ben Bahattin Salih As!
 
-💻 **Mechatronics Engineer | Java Developer | Mobile App Developer**
+💻 **Java Developer**
 
 👋 Benimle tanışın! Ben Bahattin Salih As, mekatronik mühendisliği üzerine çalışmış, PCB tasarımları yapmış ve mikrodenetleyicilerle projeler geliştirmiş bir yazılımcıyım. Son iki yıldır Java ile uygulama geliştirme becerilerimi geliştiriyorum. Ayrıca, Flutter kullanarak mobil uygulamalar da yazıyorum. Yeni teknolojilere hızlı adapte olabilirim ve bilgi paylaşımına her zaman açığım. Hem bireysel hem de takım olarak çalışabilirim.
 
 🌟 **Projelerim**:
-- [Social Metrics](https://github.com/BahattinSalihAs/Social-Metrics) - Instagram hesap analizi için geliştirdiğim bir Java backend ve Flutter frontend uygulaması.
+- [Social Metrics - Backend](https://github.com/BahattinSalihAs/Social-Metrics) - Instagram hesap analizi için geliştirdiğim bir Java backend ve [Social Metrics - Frontend](https://github.com/BahattinSalihAs/Social-Metrics-Front)Flutter frontend uygulaması.
   
 📚 **İlgi Alanlarım**:
 - Yazılım geliştirme
