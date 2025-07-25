@@ -19,8 +19,8 @@
 - Java
 - Spring
 - SQL
-- Microcontrollers (Arduino, Raspberry Pi, vs.)
-- PCB Design
+- Docker
+- JPA/Hibernate
 
 💬 **Bana Ulaşın**:
 - [LinkedIn](https://www.linkedin.com/in/bahattinsalihas)
