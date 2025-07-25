@@ -2,7 +2,7 @@
 
 💻 **Java Developer**
 
-👋 Benimle tanışın! Ben Bahattin Salih As, mekatronik mühendisliği üzerine çalışmış, PCB tasarımları yapmış ve mikrodenetleyicilerle projeler geliştirmiş bir yazılımcıyım. Son iki yıldır Java ile uygulama geliştirme becerilerimi geliştiriyorum. Ayrıca, Flutter kullanarak mobil uygulamalar da yazıyorum. Yeni teknolojilere hızlı adapte olabilirim ve bilgi paylaşımına her zaman açığım. Hem bireysel hem de takım olarak çalışabilirim.
+👋 Benimle tanışın! Ben Bahattin Salih As, mekatronik mühendisliği mezunu, PCB tasarımları yapmış ve mikrodenetleyicilerle projeler geliştirmiş bir yazılımcıyım. Son iki yıldır Java ile uygulama geliştirme becerilerimi geliştiriyorum. Ayrıca, Flutter kullanarak mobil uygulamalar da yazıyorum. Yeni teknolojilere hızlı adapte olabilirim ve bilgi paylaşımına her zaman açığım. Hem bireysel hem de takım olarak çalışabilirim.
 
 🌟 **Projelerim**:
 - Instagram hesap analizi için geliştirdiğim bir
