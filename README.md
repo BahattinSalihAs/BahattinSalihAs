@@ -6,8 +6,9 @@
 
 🌟 **Projelerim**:
 - Instagram hesap analizi için geliştirdiğim bir
-- [Social Metrics - Backend](https://github.com/BahattinSalihAs/Social-Metrics)  Java backend ve
-- [Social Metrics - Frontend](https://github.com/BahattinSalihAs/Social-Metrics-Front) Flutter frontend uygulaması.
+- [Social Metrics - Backend](https://github.com/BahattinSalihAs/Social-Metrics)  Java backend,
+- [Social Metrics - Frontend](https://github.com/BahattinSalihAs/Social-Metrics-Front) Flutter frontend uygulaması ve
+- [Social Metrics - WebSite](https://socialmetrics.app) web sitesi.
   
 📚 **İlgi Alanlarım**:
 - Yazılım geliştirme
