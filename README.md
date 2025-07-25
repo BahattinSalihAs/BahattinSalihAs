@@ -16,15 +16,15 @@
 
 🔧 **Kullandığım Teknolojiler**:
 - Java
-- Flutter
-- Android
+- Spring
+- SQL
 - Microcontrollers (Arduino, Raspberry Pi, vs.)
 - PCB Design
 
 💬 **Bana Ulaşın**:
 - [LinkedIn](https://www.linkedin.com/in/bahattinsalihas)
-- [GitHub](https://github.com/BahattinSalihAs)
-- [Twitter](https://twitter.com/bahattinsalihas)
+- [Instagram](https://www.instagram.com/bahattinsalih)
+- [E-posta](mailto:asbahattinsalih@gmail.com)
 
 ---
 
